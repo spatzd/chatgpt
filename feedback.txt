@@ -1,0 +1,6 @@
+mmoore00, mahughes
+
+Both programs appear to be very similar to one another. One possibility for this is that ChatGPT used the same process/idea
+to formulate the code it provided, and as such any differences are miniscule in the effectiveness of the program. There do not
+appear to be any glaring issues with their program at the first look, so an execution of the program would be necessary
+for any further information regarding differences/efficiency of each.
